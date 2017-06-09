@@ -1,3 +1,6 @@
+# custom
+python_guides/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
